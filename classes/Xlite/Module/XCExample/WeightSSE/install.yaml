@@ -1,0 +1,11 @@
+XLite\Model\Config:
+  - name: yesno_selectbox
+    category: XCExample\WeightSSE
+    type: \XLite\View\FormField\Select\YesNo
+    orderby: 500
+    value: Y
+    translations:
+      - code: en
+        option_name: Show weight? 
+        option_comment: Description of Yes-No selectbox
+    
